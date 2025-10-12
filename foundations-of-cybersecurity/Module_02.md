@@ -91,7 +91,7 @@ Principios de la ingeniería social:Autoridad, Intimidacion, Consenso/Prueba soc
 
 6. Evaluación y las pruebas de Seguridad: este dominio se centra en la realización de pruebas de control de seguridad, la recopilación y el análisis de datos y la realización de auditorías de seguridad para supervisar los riesgos, las amenazas y las vulnerabilidades. 
 
-7. Operaciones de Seguridad: Este dominio se centra en la realización de investigaciones y la implementación de medidas preventivas. Imagine que usted, como analista de Seguridad , recibe una alerta de que un dispositivo desconocido se ha conectado a su red interna. 
+7. Operaciones de Seguridad: Este dominio se centra en la realización de investigaciones y la implementación de medidas preventivas.
 
 8. Seguridad del desarrollo de software: Este dominio se centra en el uso de prácticas de programación seguras , que son un conjunto de directrices recomendadas que se utilizan para crear aplicaciones y servicios seguros. 
 
