@@ -94,3 +94,56 @@ Principios de la ingeniería social:Autoridad, Intimidacion, Consenso/Prueba soc
 7. Operaciones de Seguridad: Este dominio se centra en la realización de investigaciones y la implementación de medidas preventivas. Imagine que usted, como analista de Seguridad , recibe una alerta de que un dispositivo desconocido se ha conectado a su red interna. 
 
 8. Seguridad del desarrollo de software: Este dominio se centra en el uso de prácticas de programación seguras , que son un conjunto de directrices recomendadas que se utilizan para crear aplicaciones y servicios seguros. 
+
+## Tipos de ataque
+
+### Ataque de descifrado de contraseña
+
+ - Fuerza bruta
+
+ - Tabla rainbow
+
+### Ataque de ingeniería social
+
+Phishing, Smishing, Vishing, Phishing dirigido, Whaling, Phishing en redes sociales, Compromiso de correo electrónico empresarial (BEC), Ataque de "agujero de agua, Cebo USB (bus universal en serie), Ingeniería social física.
+
+### Ataque físico
+
+Cable USB malicioso, Unidad flash maliciosa, Clonación y robo de tarjetas.
+
+### Ataque criptográfico
+
+Cumpleaños, Colisión, Degradación.
+
+### Ataque a la cadena de suministro
+
+Ataque a la cadena de suministro dirigido a sistemas, aplicaciones, hardware y/o software para localizar una vulnerabilidad en la que se pueda implementar software malicioso.
+
+### Inteligencia artificial antagónica
+
+La inteligencia artificial adversaria es una técnica que manipula la inteligencia artificial y la tecnología de aprendizaje automático para realizar ataques de forma más eficaz.
+
+## Comprender a los atacantes
+
+### Tipos de agentes de amenaza
+
+Amenaza persistente avanzada
+
+Las amenazas persistentes avanzadas (APT) tienen una gran experiencia en acceder a la red de una organización sin autorización. Las APT tienden a investigar sus objetivos con antelación y pueden permanecer sin ser detectadas durante un largo periodo de tiempo.
+
+### Amenazas internas
+
+Las amenazas internas abusan de su acceso autorizado para obtener Datos que pueden perjudicar a una organización.
+
+### Hacktivistas
+
+Los Hacktivistas son Agentes de amenaza impulsados por una agenda política. Abusan de la tecnología digital para lograr sus objetivos.
+
+### Tipos de hacker
+
+1. Los hackers autorizados también se denominan hackers éticos. Siguen un Código Ético y se adhieren a la ley para llevar a cabo evaluaciones de riesgos organizativos.
+
+2. Los hackers semiautorizados se consideran investigadores. Buscan vulnerabilidades pero no se aprovechan de las que encuentran.
+
+3. Los hackers no autorizados también se denominan hackers no éticos. Son Agentes de amenaza maliciosos que no siguen ni respetan la ley.
+
