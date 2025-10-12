@@ -78,3 +78,19 @@ Algunos de los tipos más comunes de ataques de ingeniería social en la actuali
 Principios de la ingeniería social:Autoridad, Intimidacion, Consenso/Prueba social, Escasez, Familiaridad, Confianza, Urgencia.
 
 ## Introducción a los ocho dominios de Seguridad CISSP
+
+1. Seguridad y gestión de riesgos:La administración de seguridad y riesgos se centra en definir las metas y objetivos de seguridad, la mitigación de riesgos, el cumplimiento, la continuidad del negocio y la ley.
+ 
+2. Seguridad de los recursos:Este dominio se centra en proteger los activos digitales y físicos. También está relacionado con el almacenamiento, el mantenimiento, la retención y la destrucción de datos.
+ 
+3. Arquitectura e ingenieria de seguridad: Este dominio se centra en optimizar la Seguridad de los datos garantizando la existencia de herramientas sistemas y procesos eficaces.
+ 
+4. Seguridad de la red:Este dominio se centra en administrar y proteger las redes físicas y las comunicaciones inalámbricas.
+
+5. La gestión de identidad y acceso: se centra en mantener los datos seguros, garantizando que los usuarios sigan las políticas establecidas para controlar y administrar los activos físicos, como los espacios de oficina, y los activos lógicos, como las redes y las aplicaciones.
+
+6. Evaluación y las pruebas de Seguridad: este dominio se centra en la realización de pruebas de control de seguridad, la recopilación y el análisis de datos y la realización de auditorías de seguridad para supervisar los riesgos, las amenazas y las vulnerabilidades. 
+
+7. Operaciones de Seguridad: Este dominio se centra en la realización de investigaciones y la implementación de medidas preventivas. Imagine que usted, como analista de Seguridad , recibe una alerta de que un dispositivo desconocido se ha conectado a su red interna. 
+
+8. Seguridad del desarrollo de software: Este dominio se centra en el uso de prácticas de programación seguras , que son un conjunto de directrices recomendadas que se utilizan para crear aplicaciones y servicios seguros. 
