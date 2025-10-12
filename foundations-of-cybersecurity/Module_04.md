@@ -16,3 +16,11 @@ Splunk es una plataforma de análisis de datos y Splunk Enterprise ofrece soluci
 
 ### Chronicle
 
+Chronicle es una herramienta SIEM nativa de la nube que almacena datos de Seguridad para su búsqueda y análisis . Nativo en la nube significa que Chronicle permite la entrega rápida de nuevas funciones .
+
+#### Otras herramientas que usaras como analista de seguridad
+
+Manuales de estrategias y los analizadores de protocolos de red.
+
+##
+
